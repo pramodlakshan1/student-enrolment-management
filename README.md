@@ -15,7 +15,7 @@ Full-stack web app for managing student enrollments. Built with React (frontend)
 - Pending status highlighting.
 
 ## Demo Video
-[Link to your video here]
+https://drive.google.com/file/d/1_qIlV0kjQQ8Ppcntyyv8erOb9A2VtGaZ/view?usp=drive_link
 
 ## Technologies
 - Frontend: React, Tailwind CSS
