@@ -1,0 +1,2 @@
+PORT = 5001
+MONGO_URI = mongodb+srv://pramodlakshan380_db_user:0pZtxrPGf8nsa5ct@cluster0.sar9wcp.mongodb.net/
